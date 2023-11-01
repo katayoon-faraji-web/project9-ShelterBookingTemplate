@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: font1;
+    src: url("../font/IBM_Plex_Sans/IBMPlexSans-Medium.ttf") format("opentype");
+}
+@font-face {
+    font-family: font2;
+    src: url("../font/IBM_Plex_Sans/IBMPlexSans-Light.ttf") format("opentype");
+}
+@keyframes anime1{
+    from{
+        transform: translateY(150px);
+    }
+    to{
+        transform: translateY(0);
+    }
+}

@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "5854855e963044f93b15738a5bb27a29",
+      "css": "phone",
+      "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "0fbfb1cd7a847c88ea4c141d0e1bbdb5",
+      "css": "instagram",
+      "code": 62253,
+      "src": "entypo"
+    },
+    {
+      "uid": "4018f42f7295c26af132259c1886c509",
+      "css": "logokaty3",
+      "code": 59400,
+      "src": "custom_icons",
+      "selected": false,
+      "svg": {
+        "path": "",
+        "width": 1415
+      },
+      "search": [
+        "logokaty3"
+      ]
+    }
+  ]
+}
