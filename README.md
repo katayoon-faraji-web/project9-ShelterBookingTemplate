@@ -1,6 +1,5 @@
 # project9
-![pic](https://github.com/katayoon-faraji-web/project9/assets/144775981/8848a0ea-a821-445d-8971-8baf180f3bf0)
-
+![pic](https://github.com/katayoon-faraji-web/project9/assets/144775981/b17ab9b9-42b6-464a-98e8-bc28ba76d068)
 
 
 - [Demo Project](https://katayoon-faraji-web.github.io/project9/)
